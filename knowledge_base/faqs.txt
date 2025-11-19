@@ -1,0 +1,51 @@
+Company Information and Services
+
+About Our Company:
+We are a leading technology company specializing in AI-powered voice solutions. Founded in 2020, we help businesses integrate intelligent voice agents into their customer service workflows. Our mission is to make voice AI accessible and effective for companies of all sizes.
+
+Business Hours:
+Our customer support team is available Monday through Friday, 9:00 AM to 6:00 PM EST. For urgent technical issues, we offer 24/7 emergency support for enterprise customers.
+
+Product Features:
+Our voice agent platform includes:
+- Real-time voice interaction with low latency
+- Multi-language support (English, Spanish, French, German, Arabic)
+- Integration with existing CRM systems
+- Custom knowledge base integration
+- Analytics and conversation insights
+- Easy API integration
+
+Pricing Plans:
+We offer three pricing tiers:
+1. Starter Plan: $99/month - Up to 1,000 minutes of voice interaction
+2. Professional Plan: $299/month - Up to 5,000 minutes with advanced features
+3. Enterprise Plan: Custom pricing - Unlimited usage with dedicated support
+
+How to Get Started:
+To get started with our platform:
+1. Sign up for a free trial at our website
+2. Complete the onboarding tutorial
+3. Configure your first voice agent
+4. Test with our sandbox environment
+5. Deploy to production when ready
+
+Technical Support:
+For technical issues:
+- Email: support@company.com
+- Phone: 1-800-VOICE-AI
+- Live chat available on our website
+- Documentation: docs.company.com
+
+Common Issues:
+- Password Reset: Click "Forgot Password" on the login page and follow the email instructions
+- API Connection Issues: Verify your API keys are correct and check firewall settings
+- Audio Quality Problems: Ensure stable internet connection and check microphone permissions
+- Integration Help: Consult our integration guides or contact technical support
+
+Security and Privacy:
+We take security seriously:
+- All voice data is encrypted in transit and at rest
+- SOC 2 Type II certified
+- GDPR and CCPA compliant
+- Regular security audits
+- No voice data is used for training without explicit consent
