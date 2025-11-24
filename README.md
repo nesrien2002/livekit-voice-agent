@@ -254,8 +254,6 @@ sudo lsof -ti:8000 | xargs kill -9
 
 # Project Demo
 
-![Demo Image](https://drive.google.com/uc?export=view&id=1lND2J3DuUw8wf2ueqwfUSiE-C1VLIj_9)
-
 Click image to watch demo:
 
 [![Demo Video](https://drive.google.com/uc?export=view&id=1lND2J3DuUw8wf2ueqwfUSiE-C1VLIj_9)](https://drive.google.com/file/d/11rcsX6iCFMaRcaHoyDZYauYjHHAftvZt/view?usp=sharing)
